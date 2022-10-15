@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :hammer_and_wrench: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Chapman&layout=compact&theme=vision-friendly-dark)](https://github.com/James-Chapman/github-readme-stats)
 
